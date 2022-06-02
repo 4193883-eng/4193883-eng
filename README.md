@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4193883-eng
-- 👀 I’m interested in python
-- 🌱 I’m currently learning html/css/js
+- 👀 I’m interested in JS HTML CSS
+- 🌱 I’m currently learning node.JS
 - 📫 How to reach me at 4193883@gmail.com
 
 <!---
